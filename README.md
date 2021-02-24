@@ -1,8 +1,3 @@
-<img width="auto" src="https://avatars.githubusercontent.com/u/45858897?s=460&u=803727c42776f9f96ae9be296b75362e1cd23c38&v=4">
-
-
-# Carlos Roberto
-
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
