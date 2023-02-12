@@ -2,7 +2,7 @@
 Sou Carlos, conhecido Myboy, morador da cidade de Espera Feliz, interior de Minas Gerais.
 Sou um FullStack Developer :computer:
 
-Cursei Graduação em Sistemas de Informação na Universidade Estadual de Minas Gerais entre 2015 e 2019.
+Cursei Graduação em Sistemas de Informação na Universidade Estadual de Minas Gerais entre 2016 e 2019.
 Cursei Pós Graduação em Desenvolvimento Web Fullstack na Pontifícia Universidade Católica de Minas Gerais (PUCMINAS) entre 2020 e 2023.
 
  :rocket:
