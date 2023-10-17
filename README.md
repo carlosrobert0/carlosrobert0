@@ -1,7 +1,7 @@
 ## Olá, mundo 👋
-Sou Carlos Roberto, desenvolvedor FullStack com mais de 2 anos de experiência no mercado de trabalho. Durante esse tempo, tive a oportunidade de consolidar meus conhecimentos em tecnologias como ReactJS, React Native, NodeJS e Typescript, o que me permite desenvolver soluções completas e eficientes para os projetos que participo.
+Sou Carlos Roberto, desenvolvedor FullStack com mais de 3 anos de experiência no mercado de trabalho. Durante esse tempo, tive a oportunidade de consolidar meus conhecimentos em tecnologias como ReactJS, React Native, NodeJS e Typescript, o que me permite desenvolver soluções completas e eficientes para os projetos que participo.
 
-Sou formado em Sistemas de Informação pela Universidade do Estado de Minas Gerais - UEMG (2019) e atualmente estou cursando pós-graduação em Desenvolvimento Web Fullstack na Pontifícia Universidade Católica de Minas Gerais - PUCMINAS (2023). Tenho o compromisso de estar sempre aprendendo e me atualizando em relação às melhores práticas e tecnologias disponíveis no mercado.
+Sou formado em Sistemas de Informação pela Universidade do Estado de Minas Gerais - UEMG (2019) e pós-graduado em Desenvolvimento Web Fullstack na Pontifícia Universidade Católica de Minas Gerais - PUCMINAS (2023). Tenho o compromisso de estar sempre aprendendo e me atualizando em relação às melhores práticas e tecnologias disponíveis no mercado.
 
 Além disso, sou uma pessoa resiliente e trabalho bem em equipe, sempre buscando contribuir de forma positiva para os projetos em que estou envolvido. Tenho boa comunicação e acredito que o diálogo é fundamental para o sucesso de qualquer empreitada.
 
