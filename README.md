@@ -6,7 +6,7 @@ Atuo desde a concepção de ideias até a entrega de produtos escaláveis, utili
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Formado em **Sistemas de Informação (UEMG, 2020)** e pós-graduado em **Desenvolvimento Web Fullstack (PUC Minas, 2023)**  
+- 🎓 Formado em **Sistemas de Informação (UEMG, 2019)** e pós-graduado em **Desenvolvimento Web Fullstack (PUC Minas, 2023)**  
 - 💼 Experiência em empresas como **Gazin, Stefanini, Dimensa, Quantico Solution** e como **consultor em projetos autorais**  
 - 🛠️ Atuo com **React.js, Next.js, React Native, Node.js, NestJS, Rust**, microsserviços, mensageria com **Kafka** e infraestrutura em **Docker + Kubernetes**  
 - ⚽ Fora do código: apaixonado por futebol e por desafios que me fazem evoluir  
@@ -37,13 +37,6 @@ Atuo desde a concepção de ideias até a entrega de produtos escaláveis, utili
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=for-the-badge)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=FFF&style=for-the-badge)  
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=FFF&style=for-the-badge)  
-
----
-
-## 📊 GitHub Stats  
-
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobert0&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobert0&layout=compact&theme=tokyonight)  
 
 ---
 
