@@ -1,24 +1,41 @@
-# 👋 Olá, mundo! Eu sou o Carlos Roberto  
+# 👋 Olá, eu sou o Carlos Roberto  
 
-💻 **Desenvolvedor Fullstack** com mais de **4 anos de experiência**, apaixonado por criar soluções completas que conectam **frontend, backend, mobile e sistemas distribuídos**.  
-Atuo desde a concepção de ideias até a entrega de produtos escaláveis, utilizando tecnologias modernas e boas práticas de desenvolvimento.  
+💻 **Desenvolvedor Fullstack** com **5+ anos de experiência**, atuando na construção de aplicações **web, mobile e APIs escaláveis** em ambientes de produção.  
+Tenho foco em entregar soluções que equilibram **qualidade técnica, performance e impacto real no negócio**.
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Formado em **Sistemas de Informação (UEMG, 2019)** e pós-graduado em **Desenvolvimento Web Fullstack (PUC Minas, 2023)**  
-- 💼 Experiência em empresas como **Gazin, Stefanini, Dimensa, Quantico Solution** e como **consultor em projetos autorais**  
-- 🛠️ Atuo com **React.js, Next.js, React Native, Node.js, NestJS, Rust**, microsserviços, mensageria com **Kafka** e infraestrutura em **Docker + Kubernetes**  
-- ⚽ Fora do código: apaixonado por futebol e por desafios que me fazem evoluir  
+- 🎓 Formado em **Sistemas de Informação (UEMG)** e pós-graduado em **Desenvolvimento Web Fullstack (PUC Minas)**  
+- 💼 Experiência em empresas como **Gazin, Stefanini, Dimensa, Quantico** e atualmente atuando também como **AI Trainer na Turing**  
+- 📱 Forte atuação com **React Native em produção**, lidando com apps de alto volume de usuários  
+- 🧠 Experiência com **IA, agentes, automações e integração de APIs (LLMs, RAG, workflows)**  
+- 🛠️ Stack principal: **TypeScript, Node.js, React, Next.js, React Native, NestJS e Rust**  
+- ⚙️ Vivência com **Kafka, Docker, Kubernetes, CI/CD, observabilidade (DataDog, Sentry)**  
+- 🚀 Perfil voltado a **produto**, indo da ideia até produção  
 
 ---
 
 ## 🏆 Experiência em Destaque
-- **FastBudget (Autoral):** SaaS para orçamentos online com Next.js, Firebase, Stripe e geração automática de PDFs  
-- **Gazin:** API Gateway com NestJS, microsserviços com Kafka e soluções escaláveis para e-commerce  
-- **Guardianm (Consultor):** Sistema em **Rust/Leptos** para gestão de poços de petróleo e dados de clientes  
-- **Quantico Solution & Dimensa:** Aplicativos mobile em **React Native** para Defesa Civil de Portugal e soluções financeiras  
-- **Stefanini:** APIs REST em Node.js, migração de sistemas PHP para ReactJS e integrações corporativas  
+
+### 📱 Mobile & Produção (Gazin)
+- Desenvolvimento e manutenção do app mobile (React Native) em ambiente de alta escala  
+- Implementação de features, correção de bugs críticos e melhoria de performance  
+- Integração com backend (NestJS), mensageria (Kafka) e monitoramento (DataDog/Sentry)  
+
+### 🔄 Sistemas Legados (Stefanini)
+- Migração de sistemas PHP/.NET para **React + Node.js**  
+- Atuação em ambientes corporativos com integração entre sistemas antigos e modernos  
+
+### 🤖 IA & Automação (Turing)
+- Criação e avaliação de **agentes de IA**, prompts e workflows  
+- Orquestração de ferramentas, chamadas de função e validação de respostas  
+- Trabalho com **LLMs, RAG e automação de processos**  
+
+### 💡 Produto Próprio (FastBudget)
+- SaaS completo para gestão de orçamentos  
+- Stack: Next.js, Firebase, Stripe, OAuth  
+- Responsável por **arquitetura, backend, frontend, mobile e deploy**  
 
 ---
 
@@ -49,4 +66,5 @@ Atuo desde a concepção de ideias até a entrega de produtos escaláveis, utili
 
 ---
 
-✨ Se você procura alguém **dedicado, comunicativo e apaixonado por tecnologia**, podemos conversar sobre como posso contribuir para o seu projeto.  
+💡 **Foco atual:** Mobile em escala, arquitetura de sistemas e aplicações com IA.  
+🚀 Aberto a desafios onde eu possa gerar impacto real no produto e no negócio.
