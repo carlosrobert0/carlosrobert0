@@ -1,41 +1,43 @@
 # 👋 Olá, eu sou o Carlos Roberto  
 
-💻 **Desenvolvedor Fullstack** com **5+ anos de experiência**, atuando na construção de aplicações **web, mobile e APIs escaláveis** em ambientes de produção.  
+💻 **Desenvolvedor Fullstack** com **6 anos de experiência**, atuando na construção de aplicações **web, mobile e APIs** em ambientes de produção.  
 Tenho foco em entregar soluções que equilibram **qualidade técnica, performance e impacto real no negócio**.
 
 ---
 
 ## 🚀 Sobre mim
 - 🎓 Formado em **Sistemas de Informação (UEMG)** e pós-graduado em **Desenvolvimento Web Fullstack (PUC Minas)**  
-- 💼 Experiência em empresas como **Gazin, Stefanini, Dimensa, Quantico** e atualmente atuando também como **AI Trainer na Turing**  
-- 📱 Forte atuação com **React Native em produção**, lidando com apps de alto volume de usuários  
-- 🧠 Experiência com **IA, agentes, automações e integração de APIs (LLMs, RAG, workflows)**  
+- 💼 Atualmente **Senior Full Stack Engineer**, com experiência em telecom, e-commerce, fintech, IA e consultoria  
+- 🧭 1 ano como **referência técnica de um time de backend** (NestJS)  
+- 📱 Atuação com **React Native em produção**, em apps de e-commerce e fintech  
+- 🧠 Experiência com **IA, agentes, automações e integração de LLMs (tool calling, RAG, MCP)**  
 - 🛠️ Stack principal: **TypeScript, Node.js, React, Next.js, React Native, NestJS e Rust**  
-- ⚙️ Vivência com **Kafka, Docker, Kubernetes, CI/CD, observabilidade (DataDog, Sentry)**  
+- ⚙️ Vivência com **Kafka, Redis, Docker, Kubernetes, CI/CD e observabilidade (DataDog, Sentry)**  
 - 🚀 Perfil voltado a **produto**, indo da ideia até produção  
 
 ---
 
 ## 🏆 Experiência em Destaque
 
-### 📱 Mobile & Produção (Gazin)
-- Desenvolvimento e manutenção do app mobile (React Native) em ambiente de alta escala  
-- Implementação de features, correção de bugs críticos e melhoria de performance  
-- Integração com backend (NestJS), mensageria (Kafka) e monitoramento (DataDog/Sentry)  
+### 🏢 APIs e Integrações (Telecom)
+- Features de uma plataforma de clientes empresariais, com foco em atendimento, engajamento e vendas  
+- Desenho e manutenção de APIs e integrações de fluxos residenciais, incluindo **autenticação e agendamento**  
+- Regras de negócio e evolução de funcionalidades críticas da jornada do cliente  
 
-### 🔄 Sistemas Legados (Stefanini)
-- Migração de sistemas PHP/.NET para **React + Node.js**  
-- Atuação em ambientes corporativos com integração entre sistemas antigos e modernos  
+### 📱 E-commerce & Backend
+- App mobile (React Native) e site (Next.js) de um e-commerce  
+- APIs e serviços backend em **NestJS e PHP/Laravel**, incluindo API Gateway mobile e painel de sellers  
+- Extração do sistema de tickets de pedidos para um **microsserviço** com Kafka e cache em Redis  
+- Monitoramento com DataDog e Sentry, em Docker e Kubernetes  
 
-### 🤖 IA & Automação (Turing)
-- Criação e avaliação de **agentes de IA**, prompts e workflows  
-- Orquestração de ferramentas, chamadas de função e validação de respostas  
-- Trabalho com **LLMs, RAG e automação de processos**  
+### 🤖 IA & Agentes
+- Criação e avaliação de **agentes de IA**, prompts e regras de uso de ferramentas  
+- Orquestração de chamadas de função, chamadas dependentes e cenários de fallback  
+- Correção de comportamento do agente e documentação de workflows  
 
-### 💡 Produto Próprio (FastBudget)
-- SaaS completo para gestão de orçamentos  
-- Stack: Next.js, Firebase, Stripe, OAuth  
-- Responsável por **arquitetura, backend, frontend, mobile e deploy**  
+### 🔄 Sistemas Web
+- Desenvolvimento e migração de sistemas web e APIs para **React + Node.js**  
+- PostgreSQL e MongoDB em ambiente corporativo  
 
 ---
 
@@ -54,6 +56,8 @@ Tenho foco em entregar soluções que equilibram **qualidade técnica, performan
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=for-the-badge)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=FFF&style=for-the-badge)  
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=FFF&style=for-the-badge)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=FFF&style=for-the-badge)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=FFF&style=for-the-badge)  
 
 ---
 
@@ -61,10 +65,9 @@ Tenho foco em entregar soluções que equilibram **qualidade técnica, performan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=FFF&style=for-the-badge)](https://www.linkedin.com/in/carlosrobertoneto)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=FFF&style=for-the-badge)](mailto:carlosroberto15755@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=FFF&style=for-the-badge)](https://wa.me/5532984655886)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFF&style=for-the-badge)](https://github.com/carlosrobert0)  
 
 ---
 
-💡 **Foco atual:** Mobile em escala, arquitetura de sistemas e aplicações com IA.  
+💡 **Foco atual:** backend em produção, arquitetura de sistemas e aplicações com IA.  
 🚀 Aberto a desafios onde eu possa gerar impacto real no produto e no negócio.
